@@ -5,10 +5,10 @@
 		<title>Saul-Persoanl Website ProjectSocrative Quiz Writing</title>
 	</head>
 	<body>
-		// This is MIlestone 1 of the Persaonal Website project for Deep Dive Coding
+		<!-- This is MIlestone 1 of the Persaonal Website project for Deep Dive Coding -->
 		<h1>Jeff - Personal Website Project (PHP) Milestone 1</h1>
 		<h2>What is the purpose?</h2>
-		// The first two lines are the title of the project
+		<!--The first two lines are the title of the project-->
 		<p>  The purpose of this website is to show potential clients what I can do for them and the range of projects I like to work on.  I was thinking of having 3-4 sample websites:  One for eductional materials, one for artists, one for a small business, and one for non-profits.</p>
 		<hr>
 		<h2>Who is the audience?</h2>
