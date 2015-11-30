@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8"/>
-		<title>Saul-Persoanl Website ProjectSocrative Quiz Writing</title>
+		<title>Saul-Persoanl Website Project</title>
 	</head>
 	<body>
 		<!-- This is MIlestone 1 of the Persaonal Website project for Deep Dive Coding -->
@@ -18,7 +18,7 @@
 		<h2>What is the goal?</h2>
 		<!--Main Goal for the persaonal website-->
 		<!--This is a brief description of what the my goal-->
-		The ultiimate goal of the website is to publisize my services and generate interest.  I want potential customers to look at the website and be either pleased enough or at least interested enough to contact me to discuss what I can do for them.  I also want them to see examples of the differnt type of websites I can create.
+		<p>The ultiimate goal of the website is to publisize my services and generate interest.  I want potential customers to look at the website and be either pleased enough or at least interested enough to contact me to discuss what I can do for them.  I also want them to see examples of the differnt type of websites I can create.</p>
 	</body>
 
 </html>
