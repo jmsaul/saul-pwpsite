@@ -5,7 +5,7 @@
 		<title>Saul-Persoanl Website Project</title>
 	</head>
 	<body>
-		<!-- This is MIlestone 1 of the Persaonal Website project for Deep Dive Coding -->
+		<!-- This is Milestone 1 of the Persaonal Website project for Deep Dive Coding -->
 		<h1>Jeff - Personal Website Project (PHP) Milestone 1</h1>
 		<h2>What is the purpose?</h2>
 		<!--The first two lines are the title of the project-->
