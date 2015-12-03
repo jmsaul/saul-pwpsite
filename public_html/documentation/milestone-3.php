@@ -5,9 +5,12 @@
 		<title>Saul-Persoanl Website Project</title>
 	</head>
 	<body>
-		<!-- This is Milestone 1 of the Persaonal Website project for Deep Dive Coding -->
-		<h1>Jeff - Personal Website Project (PHP) Milestone 1</h1>
-		<h2>What is the purpose?</h2>
+		<!-- This is Milestone 3 of the Persaonal Website project for Deep Dive Coding -->
+		<h1>Jeff - Personal Website Project (PHP) Milestone 3</h1>
+		<h2>Mobile Homepage</h2>
+		<h2>Mobile About Me page</h2>
+		<h2>Desktop Homepage</h2>
+		<h2>Destop About Me page</h2>
 		<!--The first two lines are the title of the project-->
 		<p>  The purpose of this website is to show potential clients what I can do for them and the range of projects I like to work on.  I was thinking of having 3-4 sample websites:  One for eductional materials, one for artists, one for a small business, and one for non-profits.</p>
 		<hr>

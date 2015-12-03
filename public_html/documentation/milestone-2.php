@@ -21,12 +21,21 @@
 		<p></p>
 		<p><strong>Frustrations and Needs:  </strong>Naomi needs to hire a up and coming developer on a limited fixed budget as her orgnaization cannot afford to spend much on the website. So she needs someone with solid skills, willing to listen and learn, and able to work within her budget.  She hopes she can find someone she can work with who cares about what her organization is about.  She hopes to pay for maintenance of the completed project by offering free membership and event registration to the web developer she hires. Naomi's initial search indciates there are many local potential candidates to choose from.  She must find someone who will work within the given constraints listed above.  She is hoping to hire in the next two weeks with a start date of first week in January.</p>
 		<p></p>
-		<p><strong>Goals:  </strong>Naomi want to make sure she hires the right person as they may be with her bicycle advocacy group for a long time and a strong site with well-written discussions will help the group in their discussion with local and state government.  As she views web developer websites, she is asking herself, is this the right person for us?  Can he do the job?  Does he share our interest in supporting bicycling?  But she cannot afford to wast time.  She needs to look at the site quickly and decide if this potential candidate has the skills and qualifications to warrent a call and a phone interview.</p>
+		<p><strong>Goals:  </strong>Naomi want to make sure she hires the right person as they may be with her bicycle advocacy group for a long time and a strong site with well-written discussions will help the group in their discussion with local and state government.  As she views web developer websites, she is asking herself, is this the right person for us?  Can he do the job?  Does he share our interest in supporting bicycling?  Does the coding have good documnetation so someone else can work on the site if needed?  But she cannot afford to wast time.  She needs to look at the site quickly and decide if this potential candidate has the skills and qualifications to warrent a call and a phone interview.</p>
 		<p></p>
 		<p></p>
 		<h2>Use Case</h2>
 		<hr>
+		<p>After lunch today, Naomi has two hours to view websites before her next apointment.  She has looked at at my resume and noted that I have volunteered at two annual bike events each year for the past 5 years, volunteered as onair help at KUNM for a folk music show on Saturday mornings, and donated to support local NPR stations, PBS stations, and Popejoy Hall in addition to other local causes.  She checks out my profile on linked in and notes my former carreer as a university lecturer.  Being an older person changing fields, having worked as a teacher, and with philanthropic and biking interests, she thinks I may be a good candidate as develper early in my carreer to work on her group's website and put me on the list of potential candidates whose website she wants to check.</p>
+		<p>She lands on the home page which includes links to my projects.  She sees I have only done a few projects.  Then she clicks on the link to the about me page.</p>
+		<p>She looks at the about me page.  She notes my core skills and confirms the things from my resume and cover letter that peaked her interest.  She decides to include me on the list of phone interview candidates</p>
 		<p></p>
+		<h2>Proposed Site Map</h2>
+		<hr>
+		<p>Site will consist of two pages total plus a contact form: A home page and an about me page.</p>
+		<p><strong>Homepag:  e</strong>The homepage will consist of a combined hello and portfoltio page with links to 3 portfolio itmes.  It will include a brief introduction that states my name and my role as a web developer. It will have 2 calls to action that will direct the user to the Portfolio page or to Contact me. I hope to have links to 2-3 projects for my portfolio.</p>
+		<p><strong>About Me:  </strong>This page will detail my professional history, core skill set, and professional highlights.</p>
+		<p>strong>Contact Form:  </strong>This will be a form with links from both webpages to send me an email.</p>
 	</body>
 
 </html>
