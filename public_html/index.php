@@ -64,7 +64,7 @@
 					</div>
 			</nav>
 
-			<main>
+			<main class="main-fomrat">
 			<div class="container">
 				<h2>Hello</h2>
 				<p>This past year I changed careers to become a web designer and web application developer. I am a recent
@@ -81,7 +81,10 @@
 				<div class="text-center">
 					<h3>My Portfolio</h3>
 					<div class="row">
-						<div class="col-md-4"> Column one</div>
+						<div class="col-md-4">
+							<div>Project 1</div>
+							<img src="img/sandiaMtnNM.jpg" alt="Trail Quail Project" class="img-circle">
+						</div>
 						<div class="col-md-4"> Column Two</div>
 						<div class="col-md-4"> Column three</div>
 					</div>
@@ -93,12 +96,12 @@
 			<div class="container">
 				<h4>Contact Information:</h4>
 				<ul class="contact-info">
-					<li><a href="Homepage: bootcamp-coders.cnm.edu/~jsaul4/saul-pwpsite">Personal Website</a></li>
-					<li><a href="github.com/jmsaul"></a>Github Repository</li>
+					<li><a href="//bootcamp-coders.cnm.edu/~jsaul4/saul-pwpsite">Personal Website</a></li>
+					<li><a href="//github.com/jmsaul">Github Repository</a></li>
 					<li><a href="mailto:webmansaul@gmail.com">webmansaul@gmail.com</a></li>
 					<li>Phone: 954-665-5373</li>
-					<li><a href="#">Linked in</a></li>
-					<li><a href="#">Twitter</a></li>
+					<li><a href="//www.linkedin.com/profile/view?id=AAMAAAZJ_f0BjhDGc9euxLgYOwz_kfWCqZ2XDlU&trk=hp-identity-name">Linked in</a></li>
+					<li><a href="https://twitter.com/NMmodeling">Twitter</a></li>`
 				</ul>
 			</div>
 
