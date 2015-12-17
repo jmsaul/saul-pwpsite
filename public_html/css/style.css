@@ -12,3 +12,44 @@
 .white-text0 {
 	color:white;
 }
+
+.contact-info {
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+/*
+* Footer format
+*
+*/
+footer {
+	background-image: linear-gradient(to bottom, #3C3C3C 0px, #222 100%);
+	background-repeat: repeat-x;
+	border-radius: 4px;
+	background-color: #222;
+	border-color: #080808;
+	color: white;
+	padding: 10px 0px;
+}
+
+main {
+	padding-bottom: 20px;
+}
+/***
+* Flexbox Sticky Footer
+* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+***/
+
+/*corrects IE min-height bug*/
+html { display: flex;}
+body { width: 100%;}
+
+.sfooter {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.sfooter-content {
+	flex: 1 0 auto;
+}

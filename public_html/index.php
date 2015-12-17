@@ -51,18 +51,20 @@
 					<div class="white-text1">Creative Web Designs & Complete Web Solutions</div>
 				</div>
 
-				<!-- here are your main nav links, grouped for toggling -->
-				<div class="collapse navbar-collapse" id="main-menu">
-					<u1 class="nav navbar-nav navbar-right"
-					</u1>
-					<li><a href="#">Home</a></li>
-					<li><a href="#">About me</a></li>
-					<li><a href="#">Project 1</a></li>
-					<li><a href="#">Project 2</a></li>
-					<li><a href="#">Project 3</a></li>
-				</div>
+
+					<!-- here are your main nav links, grouped for toggling -->
+					<div class="collapse navbar-collapse" id="main-menu">
+						<u1 class="nav navbar-nav navbar-right"
+						</u1>
+						<li><a href="#">Home</a></li>
+						<li><a href="#">About me</a></li>
+						<li><a href="#">Project 1</a></li>
+						<li><a href="#">Project 2</a></li>
+						<li><a href="#">Project 3</a></li>
+					</div>
 			</nav>
 
+			<main>
 			<div class="container">
 				<h2>Hello</h2>
 				<p>This past year I changed careers to become a web designer and web application developer. I am a recent
@@ -88,25 +90,29 @@
 
 			<br>
 			<hr>
-			<div class="container text-center">
+			<div class="container">
 				<h4>Contact Information:</h4>
-				<div>Homepage: bootcamp-coders.cnm.edu/~jsaul4/saul-pwpsite</div>
-				<div>Github: github.com/jmsaul</div>
-				<div>Email: saulj@me.com</div>
-				<div>Phone: 954-665-5373</div>
+				<ul class="contact-info">
+					<li><a href="Homepage: bootcamp-coders.cnm.edu/~jsaul4/saul-pwpsite">Personal Website</a></li>
+					<li><a href="github.com/jmsaul"></a>Github Repository</li>
+					<li><a href="mailto:webmansaul@gmail.com">webmansaul@gmail.com</a></li>
+					<li>Phone: 954-665-5373</li>
+					<li><a href="#">Linked in</a></li>
+					<li><a href="#">Twitter</a></li>
+				</ul>
 			</div>
 
+			</main>
+		</div>
 
-		</div>
-		</div>
 
 		<footer class="footer">
 			<div class="container">
-				<p class="text-muted">Copyright Comments
+				<p class="text-muted">Copyright 2015 Webman Saul
 			<span class="pull-right">
 				<!--	This will send an email to trailquailabq@gmail.com		-->
 				<a class="btn btn-primary" href="mailto:saulj@me.com"
-					role="button">Contact Us</a>
+					role="button">Email me</a>
 			</span>
 				</p>
 			</div>
