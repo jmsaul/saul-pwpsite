@@ -7,13 +7,16 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1"
 
 		<!-- Bootstrap latest compiled and minified CSS		-->
-		<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+		<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet"
+				integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ=="
+				crossorigin="anonymous">
 
 		<!-- Optional Bootstrap Theme -->
-		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" integrity="sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX" crossorigin="anonymous">
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css"
+				integrity="sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX" crossorigin="anonymous">
 
 		<!-- Custom CSS -->
-		<link rel="stylesheet" href="../../css/style.css" type="text/css"/>
+		<link rel="stylesheet" href="css/style.css" type="text/css"/>
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -26,7 +29,9 @@
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 
 		<!-- Bootstrap latest compiled and minified Javascript -->
-		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"  integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc= sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
+		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"
+				  integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc= sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ=="
+				  crossorigin="anonymous"></script>
 
 		<title>Personal Website Homepage</title>
 	</head>
@@ -35,13 +40,15 @@
 		<div class="sfooter-content">
 			<nav class="navbar navbar-inverse">
 				<!-- logo and mobile toggle button get grouped together for better mobile display -->
-				<div class="navbar-header">
+				<div class="navbar-header white-text0">
 					<!-- this is the mobile menu button -->
 					<button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#main-menu">
 						<span class="sr-only">main menu</span>
 						<span class="glyphicon glyphicon-menu-hamburger"></span>
 					</button>
-					<a class="navbar-brand" href="#">Trail-Quail: Albuquerque</a>
+					<a class="navbar-brand center-text" href="#">Jeff Saul - Web Developer</a>
+					<div class="clearfix"></div>
+					<div class="white-text1">Creative Web Designs & Complete Web Solutions</div>
 				</div>
 
 				<!-- here are your main nav links, grouped for toggling -->
@@ -49,36 +56,59 @@
 					<u1 class="nav navbar-nav navbar-right"
 					</u1>
 					<li><a href="#">Home</a></li>
-					<li><a href="#">Search Trails</a></li>
-					<li><a href="#">Log in</a></li>
-					<li><a href="#">About this site</a></li>
+					<li><a href="#">About me</a></li>
+					<li><a href="#">Project 1</a></li>
+					<li><a href="#">Project 2</a></li>
+					<li><a href="#">Project 3</a></li>
 				</div>
 			</nav>
 
 			<div class="container">
-				<div class="row">
-					<div class="col-md-12">Column One: 12/12 columns, 100% of container width</div>
-				</div>
-
-				<div class="row">
-					<div class="col-md-3"> Column Two: 3/12 columns, 25% of container width.</div>
-					<div class="col-md-3"> Column Three: 3/12 columns, 25% of container width.</div>
-					<div class="col-md-3"> Column Four: 3/12 columns, 25% of container width.</div>
-					<div class="col-md-3"> Column Five: 3/12 columns, 25% of container width.</div>
-				</div>
-				<p></p>
-
-				<div class="row">
-					<div class="col-md-6"> Column Six: 6/12 columns, 50% of container width.</div>
-					<div class="col-md-6"> Column Seven: 6/12 columns, 50% of container width.</div>
-				</div>
-
+				<h2>Hello</h2>
+				<p>This past year I changed careers to become a web designer and web application developer. I am a recent
+					graduate of CNM's Deep Dive Coding Bootcamp, a very intensive, practical course in using PHP, mySQL,
+					CSS, JavaScript, Bootcamp, and Angular to create full web site solutions. You can see some of my
+					websites below. I like the challenge of interesting problems and finding practical solutions. I enjoy
+					working with clients to find web solutions that provide an excellent user experience for their users.
+				</p>
+				<a href="about-me.php"><h4>To learn more about me</h4></a>
 			</div>
+			<hr>
+
+			<div class="container">
+				<div class="text-center">
+					<h3>My Portfolio</h3>
+					<div class="row">
+						<div class="col-md-4"> Column one</div>
+						<div class="col-md-4"> Column Two</div>
+						<div class="col-md-4"> Column three</div>
+					</div>
+				</div>
+			</div>
+
+			<br>
+			<hr>
+			<div class="container text-center">
+				<h4>Contact Information:</h4>
+				<div>Homepage: bootcamp-coders.cnm.edu/~jsaul4/saul-pwpsite</div>
+				<div>Github: github.com/jmsaul</div>
+				<div>Email: saulj@me.com</div>
+				<div>Phone: 954-665-5373</div>
+			</div>
+
+
+		</div>
 		</div>
 
 		<footer class="footer">
 			<div class="container">
-				<p class="text-muted">This is a bootstrap assignment</p>
+				<p class="text-muted">Copyright Comments
+			<span class="pull-right">
+				<!--	This will send an email to trailquailabq@gmail.com		-->
+				<a class="btn btn-primary" href="mailto:saulj@me.com"
+					role="button">Contact Us</a>
+			</span>
+				</p>
 			</div>
 		</footer>
 
@@ -86,18 +116,5 @@
 
 
 
-	<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8"/>
-		<title>Saul Web Software Development</title>
-	</head>
-	<body>
-		// This is Phase 1 of the Persoanl Website project for Deep Dive Coding
-		<h1>Saul Web Designs</h1>
-		<<h2>Contact Information</h2>
-		<p></p>
-	</body>
 
-</html>
 
