@@ -88,7 +88,7 @@
 									</a>
 								</div>
 								<a href="//bootcamp-coders.cnm.edu/~jsaul4/open-trails/public_html/">
-									<img src="img/sandiaMtnNM.jpg" alt="Trail Quail Project" class="img-circle img-responsive">
+									<img src="img/sandiaMtnNM.jpg" alt="Trail Quail Project" class="image-saul img-circle">
 								</a>
 							</div>
 
@@ -99,7 +99,7 @@
 									</a>
 								</div>
 								<a href="//physics.unm.edu/Courses/Saul/00_Classes/FL2014_Saul_PHYC110home.html">
-									<img src="img/shuttle.jpeg" alt="Physics 110 Website" class="img-circle img-responsive">
+									<img src="img/shuttle.jpeg" alt="Physics 110 Website" class="image-saul img-circle">
 								</a>
 							</div>
 
@@ -110,7 +110,7 @@
 									</a>
 								</div>
 								<a href="http://physics.unm.edu/Courses/Saul/00_Classes/FL2014_Saul_PHYC110home.html">
-									<img src="img/crab-nebula.jpeg" alt="Astro 101lab Website" class="img-circle img-responsive">
+									<img src="img/crab-nebula.jpeg" alt="Astro 101lab Website" class="image-saul img-circle">
 								</a>
 							</div>
 
@@ -122,6 +122,7 @@
 				<br>
 				<hr>
 				<div class="container">
+					<div class="col-md-4">
 					<h4>Contact Information:</h4>
 					<ul class="contact-info">
 						<li><a href="//bootcamp-coders.cnm.edu/~jsaul4/saul-pwpsite">Personal Website</a></li>
@@ -132,9 +133,13 @@
 								href="//www.linkedin.com/profile/view?id=AAMAAAZJ_f0BjhDGc9euxLgYOwz_kfWCqZ2XDlU&trk=hp-identity-name">Linked
 								in</a></li>
 						<li><a href="https://twitter.com/NMmodeling">Twitter</a></li>
-						`
 					</ul>
 				</div>
+
+			<div class="col-md-4">
+				<div>Two of my favorite things</div>
+				<img src="img/balloon-saul.jpg" alt="Astro 101lab Website">
+			</div>
 
 			</main>
 		</div>
