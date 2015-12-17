@@ -52,58 +52,89 @@
 				</div>
 
 
-					<!-- here are your main nav links, grouped for toggling -->
-					<div class="collapse navbar-collapse" id="main-menu">
-						<u1 class="nav navbar-nav navbar-right"
-						</u1>
-						<li><a href="#">Home</a></li>
-						<li><a href="#">About me</a></li>
-						<li><a href="#">Project 1</a></li>
-						<li><a href="#">Project 2</a></li>
-						<li><a href="#">Project 3</a></li>
-					</div>
+				<!-- here are your main nav links, grouped for toggling -->
+				<div class="collapse navbar-collapse" id="main-menu">
+					<u1 class="nav navbar-nav navbar-right"
+					</u1>
+					<li><a href="#">Home</a></li>
+					<li><a href="#">About me</a></li>
+					<li><a href="#">Project 1</a></li>
+					<li><a href="#">Project 2</a></li>
+					<li><a href="#">Project 3</a></li>
+				</div>
 			</nav>
 
 			<main class="main-fomrat">
-			<div class="container">
-				<h2>Hello</h2>
-				<p>This past year I changed careers to become a web designer and web application developer. I am a recent
-					graduate of CNM's Deep Dive Coding Bootcamp, a very intensive, practical course in using PHP, mySQL,
-					CSS, JavaScript, Bootcamp, and Angular to create full web site solutions. You can see some of my
-					websites below. I like the challenge of interesting problems and finding practical solutions. I enjoy
-					working with clients to find web solutions that provide an excellent user experience for their users.
-				</p>
-				<a href="about-me.php"><h4>To learn more about me</h4></a>
-			</div>
-			<hr>
+				<div class="container">
+					<h2>Hello</h2>
+					<p>This past year I changed careers to become a web designer and web application developer. I am a recent
+						graduate of CNM's Deep Dive Coding Bootcamp, a very intensive, practical course in using PHP, mySQL,
+						CSS, JavaScript, Bootcamp, and Angular to create full web site solutions. You can see some of my
+						websites below. I like the challenge of interesting problems and finding practical solutions. I enjoy
+						working with clients to find web solutions that provide an excellent user experience for their users.
+					</p>
+					<a href="about-me.php"><h4>To learn more about me</h4></a>
+				</div>
+				<hr>
 
-			<div class="container">
-				<div class="text-center">
-					<h3>My Portfolio</h3>
-					<div class="row">
-						<div class="col-md-4">
-							<div>Project 1</div>
-							<img src="img/sandiaMtnNM.jpg" alt="Trail Quail Project" class="img-circle">
-						</div>
-						<div class="col-md-4"> Column Two</div>
-						<div class="col-md-4"> Column three</div>
+				<div class="container">
+					<div class="text-center">
+						<h3>My Portfolio</h3>
+						<div class="row">
+							<div class="col-md-4">
+								<div>
+									<a href="//bootcamp-coders.cnm.edu/~jsaul4/open-trails/public_html/">
+										Trail-Quail Website
+									</a>
+								</div>
+								<a href="//bootcamp-coders.cnm.edu/~jsaul4/open-trails/public_html/">
+									<img src="img/sandiaMtnNM.jpg" alt="Trail Quail Project" class="img-circle img-responsive">
+								</a>
+							</div>
+
+							<div class="col-md-4">
+								<div>
+									<a href="//physics.unm.edu/Courses/Saul/00_Classes/FL2014_Saul_PHYC110home.html">
+										Physics 110 Website
+									</a>
+								</div>
+								<a href="//physics.unm.edu/Courses/Saul/00_Classes/FL2014_Saul_PHYC110home.html">
+									<img src="img/shuttle.jpeg" alt="Physics 110 Website" class="img-circle img-responsive">
+								</a>
+							</div>
+
+							<div class="col-md-4">
+								<div>
+									<a href="//physics.unm.edu/Courses/Saul/00_Classes/FL2014_A101lab.html">
+										Astro 101lab Website
+									</a>
+								</div>
+								<a href="http://physics.unm.edu/Courses/Saul/00_Classes/FL2014_Saul_PHYC110home.html">
+									<img src="img/crab-nebula.jpeg" alt="Astro 101lab Website" class="img-circle img-responsive">
+								</a>
+							</div>
+
+
+				</div>
 					</div>
 				</div>
-			</div>
 
-			<br>
-			<hr>
-			<div class="container">
-				<h4>Contact Information:</h4>
-				<ul class="contact-info">
-					<li><a href="//bootcamp-coders.cnm.edu/~jsaul4/saul-pwpsite">Personal Website</a></li>
-					<li><a href="//github.com/jmsaul">Github Repository</a></li>
-					<li><a href="mailto:webmansaul@gmail.com">webmansaul@gmail.com</a></li>
-					<li>Phone: 954-665-5373</li>
-					<li><a href="//www.linkedin.com/profile/view?id=AAMAAAZJ_f0BjhDGc9euxLgYOwz_kfWCqZ2XDlU&trk=hp-identity-name">Linked in</a></li>
-					<li><a href="https://twitter.com/NMmodeling">Twitter</a></li>`
-				</ul>
-			</div>
+				<br>
+				<hr>
+				<div class="container">
+					<h4>Contact Information:</h4>
+					<ul class="contact-info">
+						<li><a href="//bootcamp-coders.cnm.edu/~jsaul4/saul-pwpsite">Personal Website</a></li>
+						<li><a href="//github.com/jmsaul">Github Repository</a></li>
+						<li><a href="mailto:webmansaul@gmail.com">webmansaul@gmail.com</a></li>
+						<li>Phone: 954-665-5373</li>
+						<li><a
+								href="//www.linkedin.com/profile/view?id=AAMAAAZJ_f0BjhDGc9euxLgYOwz_kfWCqZ2XDlU&trk=hp-identity-name">Linked
+								in</a></li>
+						<li><a href="https://twitter.com/NMmodeling">Twitter</a></li>
+						`
+					</ul>
+				</div>
 
 			</main>
 		</div>
