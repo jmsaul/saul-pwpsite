@@ -1,5 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+
+	<!------------------------------------------------------------>
+	<!--  Personal Website for Jeff Saul  jsaul@webmansaul.com  -->
+	<!--																			-->
+	<!--	created by jsaul@webmansaul.com  December 2015			-->
+	<!------------------------------------------------------------>
+
 	<head>
 		<!-- The 3 meta tags *must* come first in the head; any other head content must come *after* these tags  		-->
 		<meta charset="utf-8"/>
@@ -36,6 +43,7 @@
 		<title>About Me page</title>
 	</head>
 
+	<!-- using stickyfooter - body tag for sticky footer begins here -->
 	<body class="sfooter">
 		<div class="sfooter-content">
 			<nav class="navbar navbar-inverse">
@@ -52,7 +60,7 @@
 				</div>
 
 
-				<!-- here are your main nav links, grouped for toggling -->
+				<!-- here are the main nav links, grouped for toggling -->
 				<div class="collapse navbar-collapse" id="main-menu">
 					<u1 class="nav navbar-nav navbar-right"
 					</u1>
@@ -64,6 +72,7 @@
 				</div>
 			</nav>
 
+			<!--	Professonal statement in first con		-->
 			<main class="main-fomrat">
 				<div class="container">
 					<h4>Professional Statement</h4>

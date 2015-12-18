@@ -51,7 +51,7 @@
 				</div>
 
 
-				<!-- here are your main nav links, grouped for toggling -->
+				<!-- here are the main nav links, grouped for toggling -->
 				<div class="collapse navbar-collapse" id="main-menu">
 					<u1 class="nav navbar-nav navbar-right"
 					</u1>
@@ -63,13 +63,16 @@
 				</div>
 			</nav>
 
+			<!-- First container is for my professional statement -->
 			<main class="main-fomrat">
 				<div class="container">
 					<h4>PROFESSIONAL STATEMENT: </h4>
 					<p>In my previous career, I focused on the teaching and learning of physics, astronomy, and mathematics at an introductory undergraduate level, most recently at the University of New Mexico.  I earned a Ph.D. in Physics in Physics Education Research.  I am now starting a new career that lets me apply my knowledge and technical skills, a career as a web designer and web application developer.  I enjoy coding and had coded applications both as an undergraduate and graduate student.  I am currently updating my skills to pursue a career in web application design and development.  I like the challenge of interesting problems and finding practical solutions.
 					</p>
-				</div>
+				</div>	<!-- End of professional statement container -->
 
+
+				<!-- 2nd container is for computer skills -->
 				<div class="container">
 					<h4>COMPUTER SKILLS:</h4>
 					<div class="row">
@@ -91,10 +94,10 @@
 						<div class="col-xs-3">Trouble Shooting:</div>
 						<div class="col-xs-9">Diagnosis of problerms wiht Desktops, laptops, printers, and network connections</div>
 					</div>
-
 				</div>  <!--  End of Computer skills container -->
 
 				<br>
+				<!-- Technical Experience container start -->
 				<div class="container">
 					<h4>TECHNICAL EXPERIENCE:</h4>
 					<h6>Central New Mexico Community College – Deep Dive Coding Bootcamp </h6>
@@ -142,12 +145,11 @@
 						</li>
 					</ul>
 
-
-
-				</div>
+				</div>  <!-- end of technical skills container -->
 
 				<br>
 				<hr>
+				<!-- start of contact info container -->
 				<div class="container">
 					<div class="col-md-4">
 						<h4>Contact Information:</h4>
@@ -168,11 +170,12 @@
 						<div>Balloon Fiesta and Bicycling</div>
 						<img src="img/balloon-saul.jpg" alt="Astro 101lab Website" class="image-saul">
 					</div>
+				</div>	<!-- end of contact info container -->
 
-			</main>
+			</main> <!-- End of main body of webpage -->
 		</div>
 
-
+		<!-- start of footer -->
 		<footer class="footer">
 			<div class="container">
 				<p class="text-muted">Copyright 2015 Jeff Saul
@@ -183,7 +186,7 @@
 			</span>
 				</p>
 			</div>
-		</footer>
+		</footer>  <!-- end of footer -->
 
 	</body>
 </html>
