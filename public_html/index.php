@@ -33,7 +33,7 @@
 				  integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc= sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ=="
 				  crossorigin="anonymous"></script>
 
-		<title>Personal Website Homepage</title>
+		<title>About Me page</title>
 	</head>
 
 	<body class="sfooter">
@@ -56,22 +56,18 @@
 				<div class="collapse navbar-collapse" id="main-menu">
 					<u1 class="nav navbar-nav navbar-right"
 					</u1>
-					<li><a href="#">Home</a></li>
-					<li><a href="#">About me</a></li>
-					<li><a href="#">Project 1</a></li>
-					<li><a href="#">Project 2</a></li>
-					<li><a href="#">Project 3</a></li>
+					<li><a href="index.php">Home</a></li>
+					<li><a href="about-me.php">About me</a></li>
+					<li><a href="//bootcamp-coders.cnm.edu/~jsaul4/open-trails/public_html/">Trail Quail website</a></li>
+					<li><a href="//physics.unm.edu/Courses/Saul/00_Classes/FL2014_Saul_PHYC110home.html">Physics 110 website</a></li>
+					<li><a href="//physics.unm.edu/Courses/Saul/00_Classes/FL2014_A101lab.html">Astro Lab Website</a></li>
 				</div>
 			</nav>
 
 			<main class="main-fomrat">
 				<div class="container">
-					<h2>Hello</h2>
-					<p>This past year I changed careers to become a web designer and web application developer. I am a recent
-						graduate of CNM's Deep Dive Coding Bootcamp, a very intensive, practical course in using PHP, mySQL,
-						CSS, JavaScript, Bootcamp, and Angular to create full web site solutions. You can see some of my
-						websites below. I like the challenge of interesting problems and finding practical solutions. I enjoy
-						working with clients to find web solutions that provide an excellent user experience for their users.
+					<h4>Professional Statement</h4>
+					<p>In my previous career, I focused on the teaching and learning of physics, astronomy, and mathematics at an introductory undergraduate level, most recently at the University of New Mexico.  I earned a Ph.D. in Physics in Physics Education Research.  I am now looking for a new career that lets me apply my knowledge and technical skills.  I enjoy coding and had coded applications both as an undergraduate and graduate student.  I am currently updating my skills to pursue a career in web application design and development.  I like the challenge of interesting problems and finding practical solutions.
 					</p>
 					<a href="about-me.php"><h4>To learn more about me</h4></a>
 				</div>
@@ -137,7 +133,8 @@
 				</div>
 
 			<div class="col-md-4">
-				<div>Two of my favorite things</div>
+				<div>Two of my favorite things:</div>
+				<div>Balloon Fiesta and Bicycling</div>
 				<img src="img/balloon-saul.jpg" alt="Astro 101lab Website" class="image-saul">
 			</div>
 
@@ -147,7 +144,7 @@
 
 		<footer class="footer">
 			<div class="container">
-				<p class="text-muted">Copyright 2015 Webman Saul
+				<p class="text-muted">Copyright 2015 Jeff Saul
 			<span class="pull-right">
 				<!--	This will send an email to trailquailabq@gmail.com		-->
 				<a class="btn btn-primary" href="mailto:saulj@me.com"
@@ -158,6 +155,7 @@
 		</footer>
 
 	</body>
+</html>
 
 
 
