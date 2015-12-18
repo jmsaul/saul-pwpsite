@@ -138,7 +138,7 @@
 
 			<div class="col-md-4">
 				<div>Two of my favorite things</div>
-				<img src="img/balloon-saul.jpg" alt="Astro 101lab Website">
+				<img src="img/balloon-saul.jpg" alt="Astro 101lab Website" class="image-saul">
 			</div>
 
 			</main>
